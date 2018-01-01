@@ -1,6 +1,10 @@
+[![npm version](https://badge.fury.io/js/vue-js-toggle-button.svg)](https://badge.fury.io/js/vue-js-toggle-button)
+
 ### Vue.js 2 toolbar / toggle bar.
 
 ![Imgur](https://i.imgur.com/TDLOOMh.png)
+
+[Live demo here](https://demo.mnagarjuna.com/code/vue-js-toolbar/)
 
 Install:
 ```bash
