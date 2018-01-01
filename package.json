@@ -1,0 +1,39 @@
+{
+  "name": "vue-js-toolbar",
+  "description": "A toolbar component for Vue.js 2+",
+  "version": "1.0.0",
+  "author": "nagarjuna",
+  "private": false,
+  "scripts": {
+    "build:client":
+      "webpack --config ./webpack.config.js --progress --hide-modules",
+    "build": "npm run build:client"
+  },
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nagarjuna993/vue-js-toolbar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nagarjuna993/vue-js-toolbar/issues"
+  },
+  "peerDependencies": {
+    "vue": "^2.0.0"
+  },
+  "keywords": ["vue", "toolbar", "toggle", "bar"],
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-preset-latest": "^6.0.0",
+    "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "node-sass": "^4.5.0",
+    "optimize-css-assets-webpack-plugin": "^3.1.1",
+    "sass-loader": "^5.0.1",
+    "vue": "^2.0.0",
+    "vue-loader": "^11.1.4",
+    "vue-template-compiler": "^2.0.0",
+    "webpack": "^2.2.0",
+    "webpack-merge": "^4.1.0"
+  }
+}
