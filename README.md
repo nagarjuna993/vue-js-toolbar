@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/vue-js-toggle-button.svg)](https://badge.fury.io/js/vue-js-toggle-button)
+[![npm version](https://badge.fury.io/js/vue-js-toolbar.svg)](https://badge.fury.io/js/vue-js-toolbar)
 
 ### Vue.js 2 toolbar / toggle bar.
 
