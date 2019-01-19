@@ -4,7 +4,7 @@
 
 ![Imgur](https://i.imgur.com/TDLOOMh.png)
 
-[Live demo here](https://demo.mnagarjuna.com/code/vue-js-toolbar/)
+[Live demo here](https://vue-js-toolbar.mnagarjuna.com/)
 
 Install:
 ```bash
