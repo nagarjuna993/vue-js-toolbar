@@ -31,7 +31,7 @@
     "optimize-css-assets-webpack-plugin": "^4.0.0",
     "sass-loader": "^6.0.7",
     "vue": "^2.0.0",
-    "vue-loader": "^15.4.2",
+    "vue-loader": "^16.3.0",
     "vue-template-compiler": "^2.0.0",
     "webpack": "^2.2.0",
     "webpack-merge": "^5.0.9"
