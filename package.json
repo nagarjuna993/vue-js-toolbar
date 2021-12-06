@@ -27,7 +27,7 @@
     "babel-preset-latest": "^6.0.0",
     "css-loader": "^0.28.11",
     "file-loader": "^2.0.0",
-    "node-sass": "^4.5.0",
+    "node-sass": "^7.0.0",
     "optimize-css-assets-webpack-plugin": "^4.0.0",
     "sass-loader": "^6.0.7",
     "vue": "^2.0.0",
