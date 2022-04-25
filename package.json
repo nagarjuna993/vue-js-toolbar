@@ -23,7 +23,7 @@
   "keywords": ["vue", "toolbar", "toggle", "bar"],
   "devDependencies": {
     "babel-core": "^6.0.0",
-    "babel-loader": "^7.1.5",
+    "babel-loader": "^8.2.5",
     "babel-preset-latest": "^6.0.0",
     "css-loader": "^0.28.11",
     "file-loader": "^2.0.0",
